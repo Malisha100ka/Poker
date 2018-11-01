@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\PokerCalculator\PokerCalculator\bin\Debug\PokerCalculator.exe.config
+C:\Users\Admin\Desktop\PokerCalculator\PokerCalculator\bin\Debug\PokerCalculator.exe
+C:\Users\Admin\Desktop\PokerCalculator\PokerCalculator\bin\Debug\PokerCalculator.pdb
+C:\Users\Admin\Desktop\PokerCalculator\PokerCalculator\obj\Debug\PokerCalculator.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\PokerCalculator\PokerCalculator\obj\Debug\PokerCalculator.Form1.resources
+C:\Users\Admin\Desktop\PokerCalculator\PokerCalculator\obj\Debug\PokerCalculator.Properties.Resources.resources
+C:\Users\Admin\Desktop\PokerCalculator\PokerCalculator\obj\Debug\PokerCalculator.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\PokerCalculator\PokerCalculator\obj\Debug\PokerCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\PokerCalculator\PokerCalculator\obj\Debug\PokerCalculator.exe
+C:\Users\Admin\Desktop\PokerCalculator\PokerCalculator\obj\Debug\PokerCalculator.pdb
